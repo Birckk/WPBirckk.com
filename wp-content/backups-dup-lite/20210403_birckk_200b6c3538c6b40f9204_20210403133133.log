@@ -1,0 +1,107 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 03/04/2021 13:32
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.0
+WORDPRESS:	5.7
+PHP INFO:	7.4.11 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 42.5MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 1 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210403_birckk_200b6c3538c6b40f9204_20210403133133_database.sql
+SQL FILE SIZE: 7.31MB (7668049)
+SQL FILE TIME: 2021-04-03 13:32:12
+SQL RUNTIME: 10.70 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/cc738xs90bfd/public_html
+ARCHIVE FILE: 20210403_birckk_200b6c3538c6b40f9204_20210403133133_archive.daf
+FILTERS: *ON*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  png;jpg;jpeg;
+----------------------------------------
+COMPRESSING
+SIZE:	235.63MB
+STATS:	Dirs 2,326 | Files 10,899 | Total 13,225
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files7
+add_extra_files_using_da1
+Adding enhanced installer files to archive using DupArchive
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 105.4MB
+ARCHIVE RUNTIME: 370.15 sec.
+MEMORY STACK: 48.5MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 7.31MB
+INSTALLER FILE: 77.82KB
+ARCHIVE FILE: 105.4MB 
+EXPECTED FILE/DIRECTORY COUNT: 13,421
+ACTUAL FILE/DIRECTORY COUNT: 13,421
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 370.16 sec.
+PEAK PHP MEMORY USED: 48.5MB
+DONE PROCESSING => 20210403_birckk 2021-04-03 13:38:12
+

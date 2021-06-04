@@ -1,0 +1,40 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Birckk	</title>
+	<atom:link href="/WPBirckk.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/WPBirckk.com/</link>
+	<description>Reviews &#124; Guides &#124; Articles</description>
+	<lastBuildDate>Tue, 06 Aug 2019 08:11:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Comment on Action Henk by Coolstuffhomie		</title>
+		<link>/WPBirckk.com/action-henk/#comment-161</link>
+
+		<dc:creator><![CDATA[Coolstuffhomie]]></dc:creator>
+		<pubDate>Sun, 30 Dec 2018 16:07:29 +0000</pubDate>
+		<guid isPermaLink="false">/WPBirckk.com/?p=627#comment-161</guid>
+
+					<description><![CDATA[Nice ^^]]></description>
+			<content:encoded><![CDATA[<p>Nice ^^</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

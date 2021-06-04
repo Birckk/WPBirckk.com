@@ -1,0 +1,107 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lists &#8211; Birckk</title>
+	<atom:link href="/WPBirckk.com/category/articles/lists/feed/" rel="self" type="application/rss+xml" />
+	<link>/WPBirckk.com/</link>
+	<description>Reviews &#124; Guides &#124; Articles</description>
+	<lastBuildDate>Sun, 30 May 2021 14:31:17 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-32x32.png</url>
+	<title>Lists &#8211; Birckk</title>
+	<link>/WPBirckk.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Best Sport Anime</title>
+		<link>/WPBirckk.com/best-sport-anime/</link>
+					<comments>/WPBirckk.com/best-sport-anime/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Fri, 05 Mar 2021 12:45:20 +0000</pubDate>
+				<category><![CDATA[Lists]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=3245</guid>
+
+					<description><![CDATA[Haikyuu!! just absolutely awesome anime. It&#8217;s tough to know beforehand how an anime is gonna turn out and how good]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/best-sport-anime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Couch Multiplayer Games</title>
+		<link>/WPBirckk.com/best-couch-games/</link>
+					<comments>/WPBirckk.com/best-couch-games/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Sat, 03 Aug 2019 13:38:52 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Lists]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=2596</guid>
+
+					<description><![CDATA[&#160; Towerfall Ascension Towerfall Ascension is one of my all-time favorite games And I’ve had so many good times playing]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/best-couch-games/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Typing Games On Steam</title>
+		<link>/WPBirckk.com/best-typing-games-on-steam/</link>
+					<comments>/WPBirckk.com/best-typing-games-on-steam/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Sat, 03 Aug 2019 13:37:40 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Lists]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=2594</guid>
+
+					<description><![CDATA[Rankings: I honestly can’t recommend playing anything below tier “S” or “A”. The only reason I have them on the]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/best-typing-games-on-steam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Isekai Anime</title>
+		<link>/WPBirckk.com/best-isekai-anime/</link>
+					<comments>/WPBirckk.com/best-isekai-anime/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Sat, 03 Aug 2019 13:17:57 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Lists]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=2544</guid>
+
+					<description><![CDATA[No Game No Life Extremely well made show. Great premise and a wonderful execution of both. No Game No Life]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/best-isekai-anime/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

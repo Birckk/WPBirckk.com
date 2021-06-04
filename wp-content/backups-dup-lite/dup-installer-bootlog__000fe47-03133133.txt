@@ -1,0 +1,25 @@
+[Jun 2 21:51:11] 
+[Jun 2 21:51:11] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.0==
+[Jun 2 21:51:11] ----------------------------------------------------
+[Jun 2 21:51:11] Installer bootstrap start
+[Jun 2 21:51:11] Manual extract found so not going to extract dup-installer dir
+[Jun 2 21:51:11] ERROR: Didn't need to extract the installer.
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/assets<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/classes<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/ctrls<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/favicon<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/lib<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/views<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/.user.ini<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-archive__[HASH].txt<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-database__[HASH].sql<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-installer-csrf__[HASH].txt<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-installer-log__[HASH].txt<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-installer-notices__[HASH].json<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-installer-state_[HASH].txt<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/dup-scan__[HASH].json<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/index.php<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/main.installer.php<br/>
+[Jun 2 21:51:11] Set permissions of /home/cc738xs90bfd/public_html/wp-content/backups-dup-lite/dup-installer/php_error__[HASH].log<br/>
+[Jun 2 21:51:11] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://birckk.com/wp-content/backups-dup-lite/dup-installer/main.installer.php

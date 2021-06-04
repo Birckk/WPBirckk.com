@@ -1,0 +1,9 @@
+/* purgecss start ignore */
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/tailwindcss/base';
+/* purgecss end ignore */
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/tailwindcss/components';
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/tailwindcss/utilities';
+
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/parts/wp-admin.css';
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/parts/muuri.css';
+@import '/WPBirckk.com/wp-content/plugins/ml-slider/metagallery/resources/css/parts/utilities.css';

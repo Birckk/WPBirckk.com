@@ -1,0 +1,10 @@
+/* TEAM */
+  Creator: Tobias Birck
+  Website: https://birckk.com/
+
+/* THANKS */
+  My good friend ^^
+
+/* SITE */
+  Language: English
+  Doctype: HTML5

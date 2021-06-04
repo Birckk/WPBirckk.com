@@ -1,0 +1,56 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Birckk &#8211; Birckk</title>
+	<atom:link href="/WPBirckk.com/tag/birckk/feed/" rel="self" type="application/rss+xml" />
+	<link>/WPBirckk.com/</link>
+	<description>Reviews &#124; Guides &#124; Articles</description>
+	<lastBuildDate>Tue, 06 Aug 2019 08:56:31 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-32x32.png</url>
+	<title>Birckk &#8211; Birckk</title>
+	<link>/WPBirckk.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Textorcist: The Story of Ray Bibbia</title>
+		<link>/WPBirckk.com/the-textorcist-the-story-of-ray-bibbia/</link>
+					<comments>/WPBirckk.com/the-textorcist-the-story-of-ray-bibbia/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2019 12:00:05 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[Birckk]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=1933</guid>
+
+					<description><![CDATA[A Typing/Bullet hell game that doesn't focus on typing or evading bullets but the combination
+]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/the-textorcist-the-story-of-ray-bibbia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

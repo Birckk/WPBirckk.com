@@ -1,0 +1,104 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Movies &#8211; Birckk</title>
+	<atom:link href="/WPBirckk.com/category/reviews/moviereviews/feed/" rel="self" type="application/rss+xml" />
+	<link>/WPBirckk.com/</link>
+	<description>Reviews &#124; Guides &#124; Articles</description>
+	<lastBuildDate>Tue, 12 Jan 2021 08:59:18 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-32x32.png</url>
+	<title>Movies &#8211; Birckk</title>
+	<link>/WPBirckk.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Click</title>
+		<link>/WPBirckk.com/click/</link>
+					<comments>/WPBirckk.com/click/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 12:00:55 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=1030</guid>
+
+					<description><![CDATA[My favorite movie Click is as you might know is an Adam Sandler movie which means it often has certain]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/click/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Sword in the Stone (1963)</title>
+		<link>/WPBirckk.com/the-sword-in-the-stone-1963/</link>
+					<comments>/WPBirckk.com/the-sword-in-the-stone-1963/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2020 12:06:55 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=1034</guid>
+
+					<description><![CDATA[The Sword in the stone is one of my favorite disney films from my childhood. It’s one of the first]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/the-sword-in-the-stone-1963/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Joker 2019</title>
+		<link>/WPBirckk.com/joker-2019/</link>
+					<comments>/WPBirckk.com/joker-2019/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Fri, 08 May 2020 12:10:47 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=2846</guid>
+
+					<description><![CDATA[I had no idea how it would be going into the theater other than it had got some good reviews,]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/joker-2019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Treasure Planet</title>
+		<link>/WPBirckk.com/treasure-planet/</link>
+					<comments>/WPBirckk.com/treasure-planet/#respond</comments>
+		
+		<dc:creator><![CDATA[Birckk]]></dc:creator>
+		<pubDate>Sat, 03 Aug 2019 14:58:17 +0000</pubDate>
+				<category><![CDATA[Movies]]></category>
+		<guid isPermaLink="false">/WPBirckk.com/?p=1026</guid>
+
+					<description><![CDATA[Treasure planet is an animated Disney film from 2002 that at the time of making, took use of a bunch]]></description>
+		
+					<wfw:commentRss>/WPBirckk.com/treasure-planet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

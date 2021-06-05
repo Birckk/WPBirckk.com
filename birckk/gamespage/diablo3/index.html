@@ -60,7 +60,206 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+
+<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Marcellus&display=swap" rel="stylesheet">
+
+<style>
+body{
+  margin:0;
+}
+
+@font-face {
+  font-family: 'Marcellus', serif;
+  
+}
+/*
+@font-face {
+  font-family: Diablo3font;  
+  src: url(diablo_h.ttf);     
+}
+/*
+
+/* header */ 
+#header{
+  text-align:center; 
+  background: rgb(43,43,43);
+  background: radial-gradient(circle, rgba(43,43,43,1) 0%, rgba(32,32,32,1) 49%, rgba(13,13,13,1) 100%);
+  -webkit-box-shadow: inset 0 0 60px #000000;
+}
+
+#header img{
+  width:15%; 
+  margin-top:10px;
+  margin-bottom:20px;
+}
+
+.CharButtons {
+  background-size: cover;
+  width:80px;
+  height:80px;
+  text-align: center;
+  background-color:Transparent;
+  text-decoration: none;
+  border:none;
+  padding:0px;
+  }
+
+
+#General {
+ background: rgb(43,43,43);
+ background: radial-gradient(circle, rgba(43,43,43,1) 0%, rgba(32,32,32,1) 33%, rgba(14,14,14,1) 81%);
+ -webkit-box-shadow: inset 0 0 60px #000000;
+ color:black;
+ height:50px; 
+ text-align:center;
+}
+#General p {
+  margin:0px; 
+  line-height: 50px; 
+  font-size:38px; 
+  font-family:Marcellus; 
+  color:white;
+  background: -webkit-linear-gradient(#eee, #999);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+
+/* Generalinfo div */
+#GeneralContainer{
+  color:black;
+  display: flex;
+  justify-content: center;
+  background: rgb(43,43,43);
+  background: radial-gradient(circle, rgba(43,43,43,1) 0%, rgba(32,32,32,1) 33%, rgba(14,14,14,1) 81%);
+  -webkit-box-shadow: inset 0 0 60px #000000;
+}
+
+#GeneralContainer div{
+  display: inline-block  
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  vertical-align: middle;
+  font-family: Diablo3font;
+}
+
+#GeneralContainer div img{
+  height:40px;
+  vertical-align: middle;
+}
+
+
+#GeneralContainer div p{
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  font-size:15px;
+  line-height: 15px;
+  margin:0px;
+}
+#GeneralContainer div h1{
+  background: linear-gradient(0deg, rgba(43,28,0,1) 0%, rgba(255,199,134,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size:30px;
+  line-height: 30px;
+  margin:0px;
+}
+
+/* Charpages container */
+#Pagescontainer {
+  background: rgb(43,43,43);
+background: radial-gradient(circle, rgba(43,43,43,1) 0%, rgba(32,32,32,1) 33%, rgba(14,14,14,1) 81%);
+  vertical-align:center;
+  text-align:center;
+  padding:20px;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+}
+
+#Pagescontainer div {
+    max-width: 70%;
+    padding-bottom:0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Pagescontainer div img {
+    max-width: 100%;
+    margin: auto;
+    margin-bottom:0px;
+    display: block;
+}
+
+/* characterpages maindiv */
+#archerPage{
+    display:none;}
+#berserkerPage{
+    display:none;}
+#darkKnightPage{
+    display:none;}
+#kunoichiPage{
+    display:none;}
+#lahnPage{
+    display:none;}
+#maehwaPage{
+    display:none;}
+#musaPage{
+    display:none;}
+#mysticPage{
+    display:none;} 
+#ninjaPage{
+    display:none;}
+#rangerPage{
+    display:none;}
+#shaiPage{
+    display:none;}    
+#strikerPage{
+    display:none;}
+#sorceressPage{
+    display:none;}
+#tamerPage{
+    display:none;}
+#valkyriePage{
+    display:block;}
+#warriorPage{
+    display:none;}
+#witchPage{
+    display:none;}
+#wizardPage{
+    display:none;}
+/*background: rgb(117,0,0);
+background: radial-gradient(circle, rgba(117,0,0,1) 0%, rgba(108,2,2,1) 2%, rgba(54,0,1,1) 6%, rgba(29,0,1,1) 9%, rgba(15,0,1,1) 13%, rgba(0,0,0,1) 23%); 
+
+background: rgb(194,17,17);
+background: radial-gradient(circle, rgba(194,17,17,1) 0%, rgba(163,21,21,1) 6%, rgba(99,7,9,1) 17%, rgba(52,4,6,1) 32%, rgba(28,2,4,1) 69%, rgba(0,0,0,1) 100%);
+*/
+
+/*
+Archer
+Berserker
+Dark Knight
+Kunoichi
+Lahn
+Maehwa
+Musa
+Mystic
+Ninja
+Ranger
+Striker
+Sorceress
+Tamer
+Valkyrie
+Warrior
+Witch
+Wizard
+*/
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

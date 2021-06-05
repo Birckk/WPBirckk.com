@@ -60,7 +60,83 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<style>
+body {
+	margin:0;
+	background-color:grey;
+	background:url(/WPBirckk.com/wp-content/uploads/GamesPage/Hearthstone/woodbg.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+@font-face {
+  font-family: Hearthstone font;  
+  src: url(/WPBirckk.com/wp-content/themes/birckk/fonts/OPTIBelwe-Medium.otf);     
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;  
+}
+
+.flex-container > div {
+  box-sizing:border-box;
+  margin: 10px;
+  padding-right:10px;
+  display:inline-block;
+  width:190px;
+  min-width:190px;
+  min-width:;
+  height:auto;
+  text-align:center;
+  border-style: ridge;
+  border-radius:15px;
+  border-color: #ad6d00 #b77300 #b77300 #ad6d00;
+  border-width: 2px;
+  background: #ebd19e url(/WPBirckk.com/wp-content/uploads/GamesPage/Hearthstone/texture1.png) repeat left top;
+}
+
+.flex-container div img{
+  padding-left:7px;
+  width:100%;
+  display:block;
+  margin:auto;
+  -webkit-filter: drop-shadow(0px 0px 10px rgba(0,0,0,1)) drop-shadow(0px 0px 5px rgba(0,0,0,1));	
+}
+
+.flex-container p{
+  text-align: center;
+  position: relative;
+  width:50%;
+  bottom: 15px;
+  margin: 0px auto 0px auto;
+  box-shadow: inset 0px 0px 7px rgba(0,0,0,1), 0px 0px 2px rgba(0,0,0,1); 
+  background-image:url(/WPBirckk.com/wp-content/uploads/GamesPage/Hearthstone/woodbg.jpg);
+  background-position: 140px 0px;  
+  background-size:200%;
+  border-radius:15px;
+  border-style: ridge;
+  border-width: 2px;
+  border-color: #ad6d00 #b77300 #b77300 #ad6d00;
+
+  color:white;
+  font-family:Hearthstone font;
+  font-weight: 100;
+}
+
+.flex-container h1 {
+	color:white;
+	font-family:Hearthstone font;
+	font-weight: 100;
+	font-size:32px;
+	margin-top:10px;
+	margin-bottom:2px;
+}
+		
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

@@ -60,7 +60,116 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<style>
+body{
+	margin:0;
+	color:black;
+}
+
+@font-face {
+    font-family: GW2font;  
+    src: url(/WPBirckk.com/wp-content/themes/birckk/fonts/GWTwoFont.ttf);  
+    font-weight: normal;  
+}
+
+/* header */ 
+#header{
+  text-align:center; 
+  background: rgb(156,27,19);
+  background: linear-gradient(344deg, rgba(156,27,19,1) 25%, rgba(227,88,88,1) 82%);
+}
+
+#header img { 
+  margin-bottom: 2px;
+}
+
+.CharButtons {
+  background-size: 20px 20px;
+  width:20px;
+  height:20px;
+  text-align: center;
+  background-color:Transparent;
+  text-decoration: none;
+  border:none;
+  margin-bottom:4px;
+  padding:0px;}
+	
+button:focus {outline:0;}	
+
+#Generalstats {
+  color:black;
+}
+
+/* Generalinfo div */
+#GeneralContainer{
+  display: flex;
+  justify-content: center;
+  background: rgb(156,27,19);
+  background: linear-gradient(344deg, rgba(156,27,19,1) 25%, rgba(227,88,88,1) 82%);
+  color:black;
+  box-sizing: border-box;
+}	
+	
+
+#GeneralContainer div{
+  display: inline-block  
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  vertical-align: middle;
+  font-family: GW2font; 
+}
+#GeneralContainer div img{
+  height:40px;
+  vertical-align: middle;
+  margin-bottom:0px;
+}
+
+/* Charpages container */
+#Pagescontainer div img {
+    max-width: 100%;
+    margin: auto;
+    margin-bottom:0px;
+    display: block;
+}
+
+#Pagescontainer {
+  background: linear-gradient(344deg, rgba(156,27,19,1) 25%, rgba(227,88,88,1) 82%);
+  vertical-align:center;
+  text-align:center;
+  padding:20px;
+}
+
+#Pagescontainer div {
+    max-width: 70%;
+    padding-bottom:0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* characterpages maindiv */
+#guardPage{
+    display:block;}
+#revPage{
+    display:none;}
+#warrPage{
+    display:none;}
+#engiPage{
+    display:none;}
+#rangPage{
+    display:none;}
+#thiePage{
+    display:none;}
+#elemPage{
+    display:none;}
+#mesmPage{
+    display:none;}
+#necroPage{
+    display:none;}
+
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

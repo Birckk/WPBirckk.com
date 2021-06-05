@@ -60,7 +60,45 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+
+
+<style>
+body {
+    margin:0;
+    
+}   
+
+.flex-container {
+  padding-top:100px;
+  padding-bottom:100px;
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  margin: 10px;
+  vertical-align:middle;
+  display:inline-block;
+  width:200px;
+  height:200px;
+  position:relative;
+}
+
+.flex-container div img{
+    max-height: 100%;  
+    max-width: 100%; 
+    width: auto;
+    height: auto;
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+        
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

@@ -69,7 +69,115 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<style>
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: black;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  top:1px;
+  width: 100%;
+  text-align: left;
+  box-sizing: border-box;
+  border-radius: 5%;
+  
+}
+.inner-text{
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.2);
+  display:inline;
+  padding-left:5px;
+  padding-right:5px;
+  padding-bottom: 2px;
+  padding-top: 0px;
+	-moz-box-shadow:    inset 0 0 3px #000000;
+   -webkit-box-shadow: inset 0 0 3px #000000;
+   box-shadow:         inset 0 0 3px #000000;
+	-moz-box-shadow:    0px 0px 5px 1px #000;
+  -webkit-box-shadow: 0px 0px 5px 1px #000;
+  box-shadow:         0px 0px 5px 1px #000;
+		
+}
+.mySlides {
+  display:none;
+}
+
+.mySlides img {
+  width:100%
+}
+
+.active-slide {
+  display:block;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor:pointer;
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

@@ -69,7 +69,79 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  vertical-align: middle;
+  width:100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+.birckk-button-github {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 4px 6px 3px 6px;
+    font-family: Arial, Verdana;   
+    background: #24292e;
+    background-position: 8px 6px;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+    position: absolute;
+    top: 6px;
+    right: 0px;
+    font-size: 12px;
+}
+
+.birckk-button-github:hover{
+  background-color: #2d343a;
+}
+.birckk-button-github img
+{
+height:16px;
+width:16px;
+}
+
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;

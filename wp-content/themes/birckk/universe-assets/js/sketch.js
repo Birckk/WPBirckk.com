@@ -13,7 +13,7 @@ const map = document.getElementById("map")
 function setup() {
 
   var canvas = createCanvas(1280, 720);
-  img = loadImage ('https://birckk.com/wp-content/uploads/portfolio/Universe/OtherStuff/bubble.png');
+  img = loadImage ('/WPBirckk.com/wp-content/uploads/portfolio/Universe/OtherStuff/bubble.png');
   canvas.parent('sketch-holder');
 
   for (const [_type, _data] of _things_recipe.entries()) {
@@ -24,7 +24,7 @@ function setup() {
 
   current_thing = -1;
 
-  imgbackground = loadImage('https://birckk.com/wp-content/uploads/portfolio/Universe/Backgrounds/BackgroundNew.png');
+  imgbackground = loadImage('/WPBirckk.com/wp-content/uploads/portfolio/Universe/Backgrounds/BackgroundNew.png');
 }
 
 function draw() {

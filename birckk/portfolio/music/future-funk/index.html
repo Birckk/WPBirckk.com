@@ -60,7 +60,136 @@ img.emoji {
 <link rel="apple-touch-icon" href="/WPBirckk.com/wp-content/uploads/Frontpage/cropped-tree-logo-1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/Frontpage/cropped-tree-logo-1-270x270.png">
 
-<style>.fa {
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+  
+body {
+  padding:0px;
+  margin:0px;
+}
+
+/* flex-containers */
+.flex-container {
+  display: flex;
+  align-items: stretch;
+  flex-wrap:wrap;
+  background-color: #f1f1f1;
+  box-sizing: border-box;
+  padding-bottom:0px;
+}
+
+.flex-container > div {
+  background-color: grey;
+  flex: 25%;
+  color: white;
+  min-width: 100%;
+  min-height:220px;
+  height:540px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  display:inline-block;
+  box-sizing: border-box;
+
+  -webkit-box-shadow: inset 0px 0px 39px 6px rgba(0,0,0,1);
+  background: rgb(255,255,255);
+  background: linear-gradient(73deg, rgba(255,255,255,1) 0%, rgba(135,255,221,1) 0%, rgba(53,180,172,1) 51%, rgba(13,156,138,1) 100%);
+  vertical-align:middle;
+
+  align-items:center;
+  justify-content: center;
+  display: flex;
+}
+/* flex-containers */
+
+.flex-container > div > div {
+  width:100px;
+  height:100px;
+  background: rgb(91,91,91);
+  background: linear-gradient(149deg, rgba(91,91,91,1) 0%, rgba(48,48,48,1) 100%);
+  align-content: center;
+  vertical-align: center;
+  display:flex;
+  margin:10px;
+  border-radius:25%;
+  -webkit-filter: drop-shadow(4px 4px 5px rgba(0,0,0,0.5));
+}
+
+.flex-container > div > div > a {
+  display:block;
+  height:100%;
+  margin:auto;
+  height:auto;
+  width:90%;
+  transition: width 0.1s, height 0.1s;
+}
+
+.flex-container > div > div > a:focus, .flex-container > div > div > a:active{
+    outline: none;
+    -moz-outline-style: none;
+    /*outline: 2px dotted rgb(240, 248, 255,0.1);
+    -moz-outline-style: 4px dotted white;*/
+}
+
+.flex-container > div > div:hover > a{
+  width:100%;
+}
+
+.flex-container > div > a {
+  width:100px;
+  height:100px;
+  background: rgb(91,91,91);
+  background: linear-gradient(149deg, rgba(91,91,91,1) 0%, rgba(48,48,48,1) 100%);
+  align-content: center;
+  vertical-align: center;
+  display:flex;
+  margin:10px;
+  border-radius:25%;
+  -webkit-filter: drop-shadow(4px 4px 5px rgba(0,0,0,0.5));
+  align-content: center;
+}
+
+.flex-container > div > a > img {
+  vertical-align: center;
+  display:flex;
+  height:auto;
+  width:65%;
+  margin:auto;
+  transition: width 0.05s, height 0.05s;
+  text-align:center
+}
+
+#FutureFunk{
+  background-image:url("https://birckk.com/wp-content/uploads/portfolio/Music/futurefunkBG-1.png"); 
+  background-position: center;
+  background-size:cover;
+}
+
+#hehe:hover > img{
+  width:75%;
+}
+
+body {
+  background-color: white;
+}
+
+@media only screen and (max-width: 1400px) {
+  .flex-container > div{
+    height:220px;
+  }
+}
+
+#hehe {
+	outline: none !important;
+}
+	
+#hehe:focus {
+	outline: none !important;
+}
+	
+.fa {
   padding: 7px;
   font-size: 20px;
   width: 20px;
